@@ -1,0 +1,119 @@
+#twitter-gallery {
+		 width: 90%;
+}
+
+#tp-main{
+	text-align: center;
+}
+
+img.tp-main-image {  
+    background: #eaeaea;  
+    padding: 6px;  
+    border: solid 1px #d6d6d6;  
+    width: 90%;
+} 
+
+img.tp-recent-image {
+
+    background: #eaeaea;  
+    padding: 6px;  
+    border: solid 1px #d6d6d6;  
+} 
+
+#tp-recent-images {
+	width: 90%;
+}
+
+#tp-recent-images ul
+{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-align: center;
+	width: 100%;
+}
+#tp-recent-images ul li { display: inline-table; padding: 8px; }
+
+#tp-main-message {
+	 padding: 15px;
+	 font-size: 18px;
+	 color: #444;
+}
+
+.clear {
+       clear:both;
+}
+
+/* Upload form */
+#tp-upload-form {
+	width: 90%;
+	height:145px;
+	background: #eaeaea;  
+    padding: 6px;  
+    border: solid 1px #d6d6d6; 
+    margin-bottom: 25px;
+}
+
+#tp-upload-form table {
+	width:100%;
+}
+
+#tp-upload-form input[type="text"] {
+	width:80%;
+}
+
+#tp-upload-form label {
+	font-weight: bold;
+}
+
+/* Twitter Cell */
+
+#tp-main-twitter-info {
+	width: 90%;
+	text-align: left;
+	padding: 25px;
+}
+#tp-main-twitter-info img {
+	float: left;
+	padding-right: 10px;
+}
+
+#tp-author {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#tp-author a {
+	text-decoration: none;
+}
+
+#tp-message {
+	font-size: 14px;
+}
+
+#tp-time {
+	color:#999999;
+	font-size: 10px;
+}
+
+/* Widget */
+#tp-recent-images-widget {
+	width: 90%;
+}
+
+#tp-recent-images-widget ul
+{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-align: center;
+	width: 100%;
+}
+#tp-recent-images-widget ul li { display: inline-table; padding: 8px; }
+
+img.tp-recent-image-widget {
+
+    background: #eaeaea;  
+    padding: 6px;  
+    border: solid 1px #d6d6d6;  
+} 
